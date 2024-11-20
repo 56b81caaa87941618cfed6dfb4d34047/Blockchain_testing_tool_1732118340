@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "SmartTest Pro",
+        "HERO_HEADING_TEXT": "Secure Your Smart Contracts with Confidence",
+        "HERO_SUBHEADING_TEXT": "Comprehensive testing solution for blockchain developers to validate, optimize, and safeguard smart contracts",
+        "FOOTER_TEXT": "\u00a9 2023 SmartTest Pro. Empowering developers to build robust smart contracts."
+    }
+}
