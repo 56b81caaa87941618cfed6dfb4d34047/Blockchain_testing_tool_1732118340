@@ -64,5 +64,13 @@
         "source": "tool:generate_smart_contract",
         "content": "Okay, I'm generating the smart contract...",
         "metadata": {}
+    },
+    {
+        "id": "626edfc9-1240-453c-9f07-0af2a39fe51e",
+        "timestamp": "2024-11-21T11:32:16.410361Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend to interact with the smart contract with address 0x1F98431c8aD98523631AE4a59f267346ea31F984 on ETH",
+        "metadata": {}
     }
 ]
